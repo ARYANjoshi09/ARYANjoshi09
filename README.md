@@ -6,13 +6,7 @@ Hello, I'm Aryan! 👋 I'm passionate about coding and technology. This is my Gi
 
 I am a  programmer and founder. I have a strong background in  programming. I enjoy working on  web development. In my free time, I also like to walk on my terrace.
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1] https://1drv.ms/f/s!AlN4HVeyk6MKhA-kq5iXrkErY7lr?e=7yDt9I: It's project based on Employee Management.
  
-Feel free to check out my [GitHub repositories]( github.com/ARYANjoshi09) for more projects and contributions.
 
 ## Skills
 
