@@ -3,16 +3,14 @@
 Hello, I'm Aryan! 👋 I'm passionate about coding and technology. This is my GitHub profile where I showcase my projects and contributions. Feel free to explore and get in touch!
 
 ## About Me
-
-I am a  programmer and founder. I have a strong background in  programming. I enjoy working on  web development. In my free time, I also like to walk on my terrace.
+  👋Hi there! I'm Aryan Joshi, a passionate coder and technology enthusiast currently pursuing my degree at IIT Madras. I am extremely enthusiastic about the world of coding and how it empowers us to create innovative solutions and shape the future.
 
  
 
 ## Skills
 
-- Programming languages: C++,Python,javascript..
-- Technologies: React, React.js,...
-- Other skills: AI&ML.
+- Programming languages: C++, javascript,DSA.
+- Other skills: frontend developer (HTML5, CSS3, JS) , Figma(UI/UX)
 
 ## Connect with Me
 
