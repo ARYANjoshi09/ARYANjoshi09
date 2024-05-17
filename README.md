@@ -1,5 +1,5 @@
  <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=venom&color=black&height=300&section=header&text=Hey%20Everyone👋&fontSize=90" />
+   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hey%20Everyone👋&fontSize=90" />
 </p>
 
 Hello, I'm Aryan! 👋 I'm passionate about coding and technology. This is my GitHub profile where I showcase my projects and contributions. Feel free to explore and get in touch!
