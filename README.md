@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color={ "idx": 8,"color": {"0": "004FF9", "100": "FFF94C"},text": "f7f5f5","textBg": "282829"}&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey Eveyone!%20render&fontSize=90" />
 </p>
 
 Hello, I'm Aryan! 👋 I'm passionate about coding and technology. This is my GitHub profile where I showcase my projects and contributions. Feel free to explore and get in touch!
