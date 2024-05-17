@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hey Everyone!👋%20render&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Hey Everyone!👋%20render&fontSize=90" />
 
 Hello, I'm Aryan! 👋 I'm passionate about coding and technology. This is my GitHub profile where I showcase my projects and contributions. Feel free to explore and get in touch!
 
