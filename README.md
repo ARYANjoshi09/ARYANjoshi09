@@ -15,8 +15,8 @@ Hello, I'm Aryan! 👋 I'm passionate about coding and technology. This is my Gi
 
 ## Skills
 
-- Programming languages: C++, javascript,DSA.
-- Other skills: frontend developer (HTML5, CSS3, JS) , Figma(UI/UX)
+- Programming languages: C++(With DSA), javascript, C.
+- Other skills:  HTML5,CSS3,JS,LINUX,FIGMA(Basic UI and UX)
 
 ## Connect with Me
 
@@ -41,4 +41,4 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
 <!---
 ARYANjoshi09/ARYANjoshi09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->,
