@@ -64,7 +64,7 @@
 > Optimized for performance and SEO 
 
 ## 💼 Experience
-- Worked on Full Stack HR Payroll System Development (Freelance work)
+- Full Stack HR Payroll System Development (Freelance work)
 - Landing Page Creation for Multiple Clients
 - IIT Madras DIY Website
 - Hardware-Software Integration Projects
@@ -86,5 +86,5 @@
 
 ---
 
-💡 Always excited to collaborate on innovative projects combining web, IoT, and browser extensions! Let's build something extraordinary together!
+💡 Always excited to collaborate on innovative projects and user-centric projects! Let's build something extraordinary together!
 
