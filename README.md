@@ -1,11 +1,17 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aryan%20Joshi%20🚀&fontSize=85" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aryan%20Joshi%20🚀&fontSize=85" />
 </p>
 
 <h1 align="center">Hi, I'm Aryan Joshi 👋</h1>
 
 <p align="center">
-Electronics Engineer • Systems Builder • Hardware + Software Integration • AI + Product Engineering
+<b>Electronics Engineering @ IIT Madras</b><br/>
+Systems Builder • Hardware + Software Integration • AI + Product Engineering
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Academic-Topper%20Badge%20(IITM)-gold?style=flat-square&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Award-Embedded%20C%20Course%20Topper-blue?style=flat-square" />
 </p>
 
 ---
@@ -13,117 +19,70 @@ Electronics Engineer • Systems Builder • Hardware + Software Integration •
 <h2>🧠 About Me</h2>
 
 <p>
-I am an engineering-focused builder who enjoys designing <b>end-to-end systems</b> — from hardware, sensing, and instrumentation layers to software platforms and AI-driven tools.
-My work lies at the intersection of:
+I am a 3rd-year Electronics Engineering student at <b>IIT Madras</b> focused on designing <b>end-to-end systems</b>. I bridge the gap between low-level hardware constraints and high-level software abstraction.
 </p>
 
 <ul>
-  <li>Hardware–software co-design</li>
-  <li>Embedded systems & electronics</li>
-  <li>System architecture & engineering design</li>
-  <li>AI-assisted learning and automation tools</li>
+  <li><b>Hardware–Software Co-design:</b> Verilog, FPGA, and Custom CPU Architectures.</li>
+  <li><b>Embedded Systems:</b> Precision sensing, signal conditioning, and RTOS-like logic.</li>
+  <li><b>AI Engineering:</b> LLM pipelines, RAG, and AI-driven productivity tools.</li>
+  <li><b>Full-Stack:</b> Building scalable platforms with Next.js, Node, and Cloud infra.</li>
 </ul>
 
-<p>
-I focus on building <b>real, testable, and measurable systems</b> — not just prototypes — where theory meets hardware and engineering decisions are driven by performance, reliability, and real-world constraints.
-</p>
-
 ---
 
-<h2>🔧 Hardware & Electronics Focus</h2>
+<h2>🛠️ Tech Stack & Skills</h2>
 
-<p>
-<b>Core Areas:</b><br/>
-• Analog signal processing & filter design<br/>
-• Sensor instrumentation & signal conditioning<br/>
-• Embedded systems & hardware–software integration<br/>
-• Verilog-based CPU and pipeline design<br/>
-• Measurement-driven engineering (Oscilloscope, ADALM1000, validation workflows)<br/>
-• Research-to-hardware translation projects
+<h3>🔌 Hardware & Embedded Systems</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Embedded_C-Topper-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-%23F05033.svg?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-Interfacing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LTspice-Simulation-brightgreen?style=for-the-badge"/>
 </p>
 
----
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>💻 Software & Web</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<h3>💻 Software & Web Development</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/plasmo-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=white"/>
-</p>
-
-<h3>⚙️ Systems, DevOps & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<h3>🤖 AI & Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<h3>🔌 Hardware & Embedded</h3>
+---
+
+<h2>🚀 Featured Engineering Projects</h2>
+
+### 🎛️ 3-Band Active Audio Equalizer & Mixer 
+* **Analog Signal Processing:** Designed high-fidelity MFB filter topology for Bass (100 Hz), Mid (1 kHz), and Treble (4 kHz).
+* **Validation:** Confirmed response via hardware Bode plots using **ALICE (ADALM1000)** and Oscilloscopes.
+* **Workflow:** MATLAB → CSV → Hardware → Audio Reconstruction.
+
+### 🏗️ Single-Cycle CPU Architecture
+* **Maze Solver System:** Implemented using Verilog and custom sensor interfacing logic.
+* **Logic:** Focused on hardware-level optimization and precise timing for real-time maze navigation.
+
+### 🧩 Strater (AI Learning Ecosystem)
+* An end-to-end platform featuring a browser extension (Plasmo) and structured AI learning pipelines.
+
+---
+
+<h2>📈 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYANjoshi09&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANjoshi09&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-<h2>🔭 Current Projects</h2>
-
-<h3>🧩 Strater (AI Learning Platform + Extension)</h3>
-<ul>
-  <li>AI-powered learning ecosystem</li>
-  <li>Browser extension using <b>Plasmo</b></li>
-  <li>Structured learning pipelines & AI tutors</li>
-  <li>Productivity-first education tools</li>
-</ul>
-
-<h3>🎥 MyTube (AI-powered YouTube Clone)</h3>
-<ul>
-  <li>AI-integrated learning platform</li>
-  <li>Backend: Node.js + Express</li>
-  <li>Frontend: React + Ant Design + shadcn/ui</li>
-  <li>Focus on learning workflows, not entertainment</li>
-</ul>
-
-<h3>🏫 IIT Madras DIY Platform</h3>
-<ul>
-  <li>Interactive student project showcase</li>
-  <li>Step-by-step engineering visualizations</li>
-  <li>Student-led innovation documentation system</li>
-</ul>
-
-<h3>🌐 Insiden Platform</h3>
-<ul>
-  <li>Community and learning platform</li>
-  <li>Landing page engineering</li>
-  <li>Performance-optimized, responsive design</li>
-</ul>
-
----
-
-<h2>💼 Experience</h2>
-
-<ul>
-  <li>Full-Stack HR & Payroll System (Freelance)</li>
-  <li>Multi-client Landing Page Development</li>
-  <li>Browser Extension Engineering</li>
-  <li>Hardware–Software Integration Projects</li>
-  <li>Academic & Research-oriented Engineering Projects</li>
-</ul>
 
 ---
 
@@ -131,31 +90,10 @@ I focus on building <b>real, testable, and measurable systems</b> — not just p
 
 <p align="center">
 <a href="https://github.com/ARYANjoshi09"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/aryan-joshi-magneta0901"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:Aryan09012005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aryan-joshi0901/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:aryan09012005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYANjoshi09&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<h3>💬 Engineering Philosophy</h3>
-
-<p>
-Build systems, not just code.<br/>
-Build products, not just projects.<br/>
-Build things that last.
-</p>
-
----
-
-<p align="center">
-✨ Always open to collaboration on <b>engineering-heavy</b>, <b>system-level</b>, and <b>impact-driven</b> projects.  
-Let’s build meaningful technology together.
+<i>"Build systems, not just code. Build products, not just projects."</i>
 </p>
