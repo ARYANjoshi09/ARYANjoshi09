@@ -75,14 +75,7 @@ I am a 3rd-year Electronics Engineering student at <b>IIT Madras</b> focused on 
 ### 🧩 Strater (AI Learning Ecosystem)
 * An end-to-end platform featuring a browser extension (Plasmo) and structured AI learning pipelines.
 
----
 
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYANjoshi09&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANjoshi09&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
