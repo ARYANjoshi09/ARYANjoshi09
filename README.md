@@ -10,7 +10,7 @@ Systems Builder • Hardware + Software Integration • AI + Product Engineering
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Academic-Topper%20Badge%20(IITM)-gold?style=flat-square&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Academic-Embedded Course Topper%20Badge%20(IITM)-gold?style=flat-square&logo=google-scholar" />
   <img src="https://img.shields.io/badge/Award-Embedded%20C%20Course%20Topper-blue?style=flat-square" />
 </p>
 
