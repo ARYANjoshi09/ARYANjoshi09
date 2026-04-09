@@ -62,14 +62,33 @@ I am a 3rd-year Electronics Engineering student at <b>IIT Madras</b> focused on 
 
 <h2>🚀 Featured Engineering Projects</h2>
 
-### 🎛️ 3-Band Active Audio Equalizer & Mixer 
-* **Analog Signal Processing:** Designed high-fidelity MFB filter topology for Bass (100 Hz), Mid (1 kHz), and Treble (4 kHz).
-* **Validation:** Confirmed response via hardware Bode plots using **ALICE (ADALM1000)** and Oscilloscopes.
-* **Workflow:** MATLAB → CSV → Hardware → Audio Reconstruction.
+### 🎛️ 3-Band Active Audio Equalizer & Mixer | MFB Filters, Op-Amp, Signal Processing ( Nov 2025 – Jan 2026 )
+• Designed a 3-band active audio equalizer using Multiple Feedback (MFB) filter topology for Bass (100 Hz), Mid
+(1 kHz), and Treble (4 kHz); implemented precision inverting summing amplifier at near-unity gain (0 dB).
+• Hardware measurements confirmed observed Q of 1.52 / 1.36 / 1.22 for Mid/Treble/Bass (designed Q = 1.6); measured
+center frequencies of 800 Hz, 3 kHz, 110 Hz — deviations attributed to component tolerances via hardware Bode plots.
+• Validated via ADALM1000 and oscilloscope; real-audio testing through MATLAB → CSV → hardware → audio
 
-### 🏗️ Single-Cycle CPU Architecture
-* **Maze Solver System:** Implemented using Verilog and custom sensor interfacing logic.
-* **Logic:** Focused on hardware-level optimization and precise timing for real-time maze navigation.
+### ECG Lens: Clinical 12-Lead ECG Analysis & Advisory Engine | DSP, FastAPI, Pydantic, React
+Jan 2026 – Present
+• Architected a professional-grade diagnostic engine for real-time 12-lead ECG interpretation, featuring multi-stage signal
+processing and anatomical localization of Myocardial Infarction (STEMI).
+• Implemented the Pan-Tompkins QRS Detection Algorithm and Wavelet Denoising (db4) to extract high-precision
+heart rate, QTc intervals, and HRV (SDNN) metrics from 500Hz raw data streams.
+• Developed a deterministic clinical classifier to identify infarct territories (Anterior, Inferior, Lateral) and detect Posterior
+Wall MI through lead-reciprocity logic in V1–V3 septal leads.
+• Engineered a robust backend using FastAPI with strict Pydantic schemas to mirror TypeScript interfaces, ensuring 100%
+type-safety and data validation for the React-based clinical dashboard.
+• Integrated automated clinical report generation using ReportLab, producing structured PDF summaries including signal
+morphology, confounding factor alerts (LBBB/Pacemaker), and ST-deviation mapping.
+
+### Single-Cycle CPU Architecture – Maze Solver | Verilog, FPGA, Sensor Interfacing (Oct 2025 – Nov 2025)
+• Designed a fully functional single-cycle CPU in Verilog comprising datapath, instruction decode, ALU, register file,
+memory unit, and control logic.
+• Interfaced Ultrasonic (HC-SR04) and DHT11 sensors via GPIO with interrupt-driven I/O for autonomous maze
+navigation and real-time environmental sensing.
+• Verified all modules via simulation testbenches with timing analysis and waveform inspection; confirmed correct
+operation at 25 MHz on FPGA.
 
 ### 🧩 Strater (AI Learning Ecosystem)
 * An end-to-end platform featuring a browser extension (Plasmo) and structured AI learning pipelines.
