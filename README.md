@@ -90,7 +90,7 @@ navigation and real-time environmental sensing.
 * Verified all modules via simulation testbenches with timing analysis and waveform inspection; confirmed correct
 operation at 25 MHz on FPGA.
 
-### 🚀 Strater Next — AI-Powered Educational Workspace
+### 🚀 Strater Next : AI-Powered Educational Workspace
 
 **Strater Next** is a full-stack learning platform that transforms multi-modal content (YouTube, PDFs, Webpages) into highly interactive, AI-driven study capsules. 
 
