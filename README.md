@@ -6,7 +6,7 @@
 
 <p align="center">
 <b>Electronics Engineering @ IIT Madras</b><br/>
-Systems Builder • Hardware + Software Integration • AI + Product Engineering
+Systems Designer • Hardware + Software Integration • AI + Product Engineering
 </p>
 
 <p align="center">
