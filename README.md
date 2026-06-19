@@ -90,8 +90,29 @@ navigation and real-time environmental sensing.
 * Verified all modules via simulation testbenches with timing analysis and waveform inspection; confirmed correct
 operation at 25 MHz on FPGA.
 
-### 🧩 Strater (AI Learning Ecosystem)
-* An end-to-end platform featuring a browser extension (Plasmo) and structured AI learning pipelines.
+### 🚀 Strater Next — AI-Powered Educational Workspace
+
+**Strater Next** is a full-stack learning platform that transforms multi-modal content (YouTube, PDFs, Webpages) into highly interactive, AI-driven study capsules. 
+
+🏆 **Traction & Recognition**
+* 🎉 **1,000+ Active Users**
+* 🥈 **Ranked #2 Product of the Day** on Product Hunt
+* 🥇 **Ranked #1 in the Education Category** for an entire week
+
+💻 **Tech Stack**
+* **Frontend:** Next.js 15 (App Router), React 19, Tailwind CSS, shadcn/ui, Framer Motion
+* **Backend:** Node.js, Next.js Server Actions, MongoDB (Mongoose), Clerk Auth
+* **AI & Data:** Vercel AI SDK, LangChain, OpenAI/Groq, AWS S3/Lambda
+* **State Management:** Zustand (Global), React Hooks (Local)
+
+✨ **Technical Highlights**
+* **Complex UI Architecture:** Engineered an IDE-like, modular workspace utilizing `react-resizable-panels` with deep recursive rendering for a hierarchical document explorer.
+* **Multi-Modal Data Ingestion:** Built robust data pipelines utilizing Puppeteer and PDF parsing algorithms to ingest, chunk, and embed vast amounts of educational data.
+* **Real-Time AI Streaming:** Integrated `@ai-sdk/react` to provide seamless, streaming generation for dynamic Studio Tools (Quizzes, Mind Maps, Summaries, Flashcards).
+* **Performance Optimization:** Leveraged heavily optimized Server Components and strict `"use client"` boundaries to minimize JavaScript bundle sizes and ensure lightning-fast page loads.
+
+🔗 [Live Demo](https://strater.in/) 
+
 
 
 
