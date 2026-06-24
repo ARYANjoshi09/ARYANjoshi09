@@ -70,7 +70,7 @@ center frequencies of 800 Hz, 3 kHz, 110 Hz — deviations attributed to compone
 * Validated via ADALM1000 and oscilloscope; real-audio testing through MATLAB → CSV → hardware → audio
 
 ### ECG Lens: Clinical 12-Lead ECG Analysis & Advisory Engine | DSP, FastAPI, Pydantic, React
-(Jan 2026 – Present)
+(May 2026 – June 2026)
 * Architected a professional-grade diagnostic engine for real-time 12-lead ECG interpretation, featuring multi-stage signal
 processing and anatomical localization of Myocardial Infarction (STEMI).
 * Implemented the Pan-Tompkins QRS Detection Algorithm and Wavelet Denoising (db4) to extract high-precision
